@@ -4,7 +4,7 @@ Note : This project is done in latest Angular Version i.e Angular 8
 
 * Steps for running the project 
 
-1.  Git clone using cmd ()
+1.  Git clone using cmd (https://github.com/MobinKidangethu/Angular-Assignment.git)
 2. cd angular-assignment
 3. npm install
 4. ng serve
